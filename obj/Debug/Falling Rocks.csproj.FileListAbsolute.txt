@@ -1,0 +1,9 @@
+D:\GitHub Projects To Upload\Falling Rocks\bin\Debug\_12.FallingRocks.exe.config
+D:\GitHub Projects To Upload\Falling Rocks\bin\Debug\_12.FallingRocks.exe
+D:\GitHub Projects To Upload\Falling Rocks\bin\Debug\_12.FallingRocks.pdb
+D:\GitHub Projects To Upload\Falling Rocks\obj\Debug\Falling Rocks.csprojResolveAssemblyReference.cache
+D:\GitHub Projects To Upload\Falling Rocks\obj\Debug\_12.FallingRocks.exe
+D:\GitHub Projects To Upload\Falling Rocks\obj\Debug\_12.FallingRocks.pdb
+D:\GitHub\Falling-Rocks\bin\Debug\_12.FallingRocks.exe.config
+D:\GitHub\Falling-Rocks\obj\Debug\_12.FallingRocks.exe
+D:\GitHub\Falling-Rocks\obj\Debug\_12.FallingRocks.pdb
